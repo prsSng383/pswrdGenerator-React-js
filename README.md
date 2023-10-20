@@ -1,4 +1,5 @@
 # React + Vite
+![Capture](https://github.com/prsSng383/pswrdGenerator-React-js/assets/146059706/e1fbf616-3daf-4279-bf63-2c63ae29a51d)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
